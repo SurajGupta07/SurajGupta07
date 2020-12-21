@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Suraj Fupta</h1>
+<h1 align="center">Hey there 👋, I'm Suraj Gupta</h1>
 <h3 align="center">Engineer at Cirtru</h3>
 
 
