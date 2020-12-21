@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hey there 👋, I'm Suraj Fupta</h1>
+<h3 align="center">Engineer at Cirtru</h3>
+
 
 <!--
 **SurajGupta07/SurajGupta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
