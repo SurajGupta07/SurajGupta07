@@ -27,6 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta07&layout=compact"
         alt="SurajGupta" /></p>
+<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurajGupta07&show_icons=true"
         alt="SurajGupta" /></p>
