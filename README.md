@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Suraj Gupta</h1>
-<h3 align="center">Engineer at Cirtru</h3>
+<h3 align="center">Engineer at Geekyants</h3>
 
 ![](https://komarev.com/ghpvc/?username=SurajGupta07&label=PROFILE+VIEWS)
 
- - 🔭 I’m currently working at [Cirtru](https://www.cirtru.com)
+ - 🔭 I’m currently working at [Geekyants](https://geekyants.com/)
  - 🌱 I’m currently learning the subject Life
  - 💬 Ask me about **Web Dev, App Dev and Life**
  - 📝 I regulary write articles on [https://bgs07.medium.com/](https://bgs07.medium.com/)
