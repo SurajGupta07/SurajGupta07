@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working at Geekyants<br>🌱 I’m currently learning the subject of Life<br>💬 Ask me about Web Dev, App Dev and Life<br>📝 I regularly write articles on https://bgs07.medium.com/<br>📫 How to reach me: surajbg07@gmail.com
 
-
+![](https://komarev.com/ghpvc/?username=SurajGupta07&label=PROFILE+VIEWS)
+   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-gupta-07/) 
 
@@ -17,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SurajGupta07&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
