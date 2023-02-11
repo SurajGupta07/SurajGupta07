@@ -15,6 +15,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SurajGupta07&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=SurajGupta07&icon=2&color=12)](https://visitcount.itsvg.in)
